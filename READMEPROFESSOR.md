@@ -14,7 +14,7 @@ The Royal Stay Hotel Management System is a Python-based application designed to
 
 ## Project Structure  
 ```
-/RoyalStayHotelSystem/  
+│── READMEPROFESSOR.md             # Project documentation  
 │── booking.py            # Handles room reservations  
 │── feedback.py           # Manages guest reviews  
 │── guest.py              # Stores guest details  
@@ -24,6 +24,4 @@ The Royal Stay Hotel Management System is a Python-based application designed to
 │── room.py               # Manages hotel rooms  
 │── test_hotel_management.py  # Unit test suite  
 │── main.py               # Main execution file  
-│── README.md             # Project documentation  
-│── .gitignore            # Files to exclude from Git tracking  
 ```
